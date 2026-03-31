@@ -1,9 +1,9 @@
 # 파일이름 : 나만의 맛집 버킷리스트
 # 작 성 자 : 60231805 신성수
 bucket_list = []
-bucket_list.append(input("첫 번째 맛집을 입력: "))
-bucket_list.append(input("두 번째 맛집을 입력: "))
-bucket_list.append(input("세 번째 맛집을 입력: "))
+bucket_list.append(input("첫 번째 맛집을 입력하시오: "))
+bucket_list.append(input("두 번째 맛집을 입력하시오: "))
+bucket_list.append(input("세 번째 맛집을 입력하시오: "))
 
 print(f"리스트: {bucket_list}")
 
